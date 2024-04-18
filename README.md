@@ -5,6 +5,7 @@ US
 🔭 I'm currently studying Information Systems at Faculdade Federal de Lavras.
 🌱 I'm currently in the first semester.
 👯 Focused on improving C++, but still studying other languages like Python.
+
 BR
 
 🔭 Atualmente estou fazendo Sistemas de Informação na Faculdade Federal de Lavras.
