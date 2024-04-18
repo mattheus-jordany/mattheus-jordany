@@ -1,13 +1,12 @@
-### Olá sou o Mattheus Jordany 👋
-
+Olá eu sou o Iago Boardman Padilha 👋
 US
 
-🔭 I'm currently studying Information Systems at Faculdade Federal de Lavras.
-🌱 I'm currently in the first semester.
-👯 Focused on improving C++, but still studying other languages like Python.
+🔭 I’m currently taking the RocketSeat programming course.
+🌱 I’m currently in the third year of high school and in the third year of the IT technician.
+⚡ Focused on improving in JavaScript, but still studying other languages such as C, PHP, HTML, CSS
 
 BR
 
-🔭 Atualmente estou fazendo Sistemas de Informação na Faculdade Federal de Lavras.
-🌱 Atualmente estou no primeiro semestre.
-👯 Focado em melhorar em C++, mas ainda estudando outras linguagens como Python.
+🔭 Atualmente estou fazendo o curso de programação da RocketSeat.
+🌱 Atualmente estou no terceiro ano do ensino médio e no terceiro ano do técnico em informática.
+👯 Focado em melhorar em JavaScript, mas ainda estudando outras linguagens como C, PHP, HTML, CSS.
