@@ -1,7 +1,7 @@
 Olá eu sou o Iago Boardman Padilha 👋
 US
 
-🔭 I’m currently taking the RocketSeat programming course.
+🔭 I’m currently taking the RocketSeat programming course. <br>
 🌱 I’m currently in the third year of high school and in the third year of the IT technician.
 ⚡ Focused on improving in JavaScript, but still studying other languages such as C, PHP, HTML, CSS
 
