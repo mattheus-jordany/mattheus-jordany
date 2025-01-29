@@ -9,5 +9,5 @@ US
 BR
 
 🔭 Atualmente estou fazendo Sistemas de Informação na Faculdade Federal de Lavras. <br>
-🌱 Atualmente estou no primeiro semestre. <br>
-👯 Focado em melhorar em C++, mas ainda estudando outras linguagens como Python.
+🌱 Atualmente estou no segundo semestre. <br>
+👯 Focado em melhorar em C++ e Java, mas ainda estudando outras linguagens como Python.
