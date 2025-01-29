@@ -3,8 +3,8 @@
 US
 
 🔭 I'm currently studying Information Systems at Faculdade Federal de Lavras. <br>
-🌱 I'm currently in the first semester. <br>
-👯 Focused on improving C++, but still studying other languages like Python. <br>
+🌱 I'm currently in the second semester. <br>
+👯 Focused on improving C++ and Java, but still studying other languages like Python. <br>
 
 BR
 
