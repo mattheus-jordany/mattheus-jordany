@@ -30,15 +30,6 @@ Tenho paixão por transformar lógica em soluções de software, com forte base 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattheus-jordany&show_icons=true&theme=dracula&count_private=true" alt="Mattheus Jordany Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheus-jordany&layout=compact&theme=dracula" alt="Top Langs" />
-</p>
-
----
-
 ### 📫 Contato
 <a href="www.linkedin.com/in/mattheus-jordany" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
