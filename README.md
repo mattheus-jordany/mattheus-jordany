@@ -32,8 +32,8 @@ Tenho paixão por transformar lógica em soluções de software, com forte base 
 
 ### 📊 Estatísticas do GitHub
 
-![Mattheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Mattheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattheus-jordany&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattheus-jordany&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
